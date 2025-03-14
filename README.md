@@ -2,12 +2,12 @@
 
 This project represents a simulated corporate network in Cisco Packet Tracer, structured to connect multiple buildings with wired and wireless infrastructure. The network is designed to provide efficient communication, traffic segmentation, and enterprise security.
 
+I tre router centrali sono connessi tra di loro tramite porte seriali
 Server confugurato con il servizio DHCP(Dynamic Host COnfiguration Protocol)
-Access Point con SSID
-La sede è divisa in due piani con una VLAN(Virtual Local Area Network) per piano
+Access Point con SSID configurato
+La sede è divisa in due piani con una VLAN(Virtual Local Area Network) per ogni piano
 
 ## Network Architecture
-
 The network consists of three main interconnected buildings:
 
 ####  1. First Building (192.168.1.0)
@@ -34,8 +34,6 @@ Main router for routing between buildings
 Distribution switch to manage the main connections
 Central server for business services
 Redundant connections between routers to ensure reliability
-
-
 
 
 The network is designed to be scalable and adaptable to new business needs.
