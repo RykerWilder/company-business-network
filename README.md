@@ -12,6 +12,8 @@ The network consists of three main interconnected buildings:
 
 ####  1. First Building (192.168.1.0)
 
+![first-building](./img/first-building.jpeg)
+
 Dedicated router for communication management
 Main switch for traffic distribution
 Local server for business services
@@ -21,6 +23,8 @@ Access Point for wireless connection
 
 #### 2. Second Building (192.168.2.0)
 
+![second-building](./img/second-building.jpeg)
+
 Dedicated router connected to the network core
 Main switch for network management
 Internal server for business applications
@@ -29,6 +33,8 @@ Workstations for employees
 Access Point for wireless connection
 
 #### 3. Third Building (192.168.3.0)
+
+![third-building](./img/third-building.jpeg)
 
 Main router for routing between buildings
 Distribution switch to manage the main connections
