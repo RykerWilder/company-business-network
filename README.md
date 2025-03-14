@@ -12,7 +12,7 @@ The three main routers are connected to each other via serial ports.
 
 ![first-building](./img/first-building.jpeg)
 
-- Main switch for traffic distribution
+- Main switch for traffic distribution.
 - Server configured with **DHCP** (Dynamic Host COnfiguration Protocol) service.
 - Laptops and computers for employees.
 - Network printer.
@@ -32,7 +32,7 @@ The three main routers are connected to each other via serial ports.
 
 ![third-building](./img/third-building.jpeg)
 
-- Distribution switch to manage the main connections
+- Distribution switch to manage the main connections.
 - Server configured with **DHCP** (Dynamic Host COnfiguration Protocol) service.
 
 
